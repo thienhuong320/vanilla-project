@@ -7,4 +7,5 @@ export default defineConfig({
       '@':resolve(__dirname,"src"), // Định nghĩa alias, ví dụ dùng '@' thay cho thư mục 'src'
     },
   },
+  
 });
